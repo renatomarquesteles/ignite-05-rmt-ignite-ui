@@ -29,3 +29,4 @@
 
 ./packages/react
 `npm i -D react @types/react @types/react-dom`
+`npm i @stitches/react`
