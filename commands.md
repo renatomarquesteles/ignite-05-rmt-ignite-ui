@@ -18,3 +18,11 @@
 
 ./packages/ts-config
 `npm init -y`
+
+./packages/eslint-config
+`npm init -y`
+`npm i -D eslint @rocketseat/eslint-config`
+
+./packages/react
+./packages/tokens
+`npm run lint`

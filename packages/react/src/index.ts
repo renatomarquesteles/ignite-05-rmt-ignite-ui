@@ -1,3 +1,3 @@
-import { colors } from '@rmt-ignite-ui/tokens';
+import { colors } from '@rmt-ignite-ui/tokens'
 
-console.log(colors);
+console.log(colors)
