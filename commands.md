@@ -26,3 +26,6 @@
 ./packages/react
 ./packages/tokens
 `npm run lint`
+
+./packages/react
+`npm i -D react @types/react @types/react-dom`
