@@ -33,3 +33,6 @@
 
 ./packages/docs
 `npm i polished`
+
+./
+`npm i -D turbo@latest`
