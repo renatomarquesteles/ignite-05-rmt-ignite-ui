@@ -30,3 +30,6 @@
 ./packages/react
 `npm i -D react @types/react @types/react-dom`
 `npm i @stitches/react`
+
+./packages/docs
+`npm i polished`
