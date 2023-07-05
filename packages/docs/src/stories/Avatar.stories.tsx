@@ -9,6 +9,11 @@ export default {
     src: 'https://github.com/renatomarquesteles.png',
     alt: "User's profile picture",
   },
+  argTypes: {
+    src: {
+      control: { type: 'text' },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
