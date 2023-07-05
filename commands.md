@@ -43,3 +43,6 @@
 
 ./packages/docs
 `npm i phosphor-react`
+
+./packages/react
+`npm i @radix-ui/react-checkbox`
