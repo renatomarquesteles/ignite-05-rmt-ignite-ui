@@ -46,3 +46,6 @@
 
 ./packages/react
 `npm i @radix-ui/react-checkbox`
+
+./packages/docs
+`npm i @storybook/addon-a11y`
