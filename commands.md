@@ -49,3 +49,4 @@
 
 ./packages/docs
 `npm i @storybook/addon-a11y`
+`npm i -D @storybook/storybook-deployer`
