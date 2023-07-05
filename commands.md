@@ -36,3 +36,7 @@
 
 ./
 `npm i -D turbo@latest`
+
+./packages/react
+`npm i @radix-ui/react-avatar`
+`npm i phosphor-react`
