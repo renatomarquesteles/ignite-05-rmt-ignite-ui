@@ -40,3 +40,6 @@
 ./packages/react
 `npm i @radix-ui/react-avatar`
 `npm i phosphor-react`
+
+./packages/docs
+`npm i phosphor-react`
