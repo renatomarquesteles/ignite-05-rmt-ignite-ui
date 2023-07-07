@@ -50,3 +50,16 @@
 ./packages/docs
 `npm i @storybook/addon-a11y`
 `npm i -D @storybook/storybook-deployer`
+
+./
+`npm i @changesets/cli`
+`npx changeset init`
+
+~/
+`npm login`
+`npm whoami`
+
+./
+`npm run changeset`
+`npm run version-packages`
+`npm run release`
