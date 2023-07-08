@@ -63,3 +63,6 @@
 `npm run changeset`
 `npm run version-packages`
 `npm run release`
+
+./packages/react
+`npm install @radix-ui/react-toast`
