@@ -66,3 +66,4 @@
 
 ./packages/react
 `npm install @radix-ui/react-toast`
+`npm install @radix-ui/react-tooltip`
