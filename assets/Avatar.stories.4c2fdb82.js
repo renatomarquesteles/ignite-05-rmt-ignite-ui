@@ -1,0 +1,2 @@
+import{A as t}from"./index.76c3239d.js";import"./index.ec906c7e.js";import"./iframe.a3a73e10.js";import"./index.e86074b3.js";import"./jsx-runtime.a86d97cd.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/renatomarquesteles.png",alt:"User's profile picture"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.4c2fdb82.js.map
